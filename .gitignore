@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+old/
+01_download/
+07_extra/
+
+*.DS_Store
