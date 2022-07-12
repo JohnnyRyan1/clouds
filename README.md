@@ -1,2 +1,2 @@
 # clouds
-Scripts for "Emerging importance of clouds for Greenland Ice Sheet meltwater production due to decreasing albedo"
+Scripts for "Decreasing surface albedo signifies growing importance of clouds for Greenland Ice Sheet meltwater production"
